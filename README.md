@@ -60,7 +60,7 @@ ID,Nombre y Apellido,Edad,Mail,Legajo,Pregunta 1,Pregunta 2,Pregunta 3,Comentari
 1.  **Clonar el repositorio:**
     ```bash
     git clone https://github.com/TobiasPrieto/PDI-TRABAJO-PRACTICO-1.git
-    cd /PDI-TRABAJO-PRACTICO-1
+    cd PDI-TRABAJO-PRACTICO-1
     ```
 
 2.  **Instalar dependencias:**

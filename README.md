@@ -74,7 +74,7 @@ ID,Nombre y Apellido,Edad,Mail,Legajo,Pregunta 1,Pregunta 2,Pregunta 3,Comentari
 
     python tp1_PDI_ejercicio2.py
     ```
-    El script ejecutará ambos ejercicios. Para cambiar los formularios a analizar, modifica la lista `ruta_formularios` al final del archivo.
+   Para cambiar los formularios a analizar, modifica la lista `ruta_formularios` al final del archivo.
 
 ---
 

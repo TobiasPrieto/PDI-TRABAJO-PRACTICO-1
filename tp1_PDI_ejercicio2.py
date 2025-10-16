@@ -328,7 +328,7 @@ def mostrar_formularios(formularios):
     fig.text(0.75, 0.97, "MAL", ha='center', va='bottom', fontsize=12, fontweight='bold')
 
     plt.tight_layout(rect=[0, 0, 1, 0.94])
-    plt.show(block=False)
+    plt.show()
 
 def comprobar_formularios(formularios: list):
     # Para cada formulario guarda su resultado en la nueva lista y los muestra en pantalla
@@ -364,4 +364,5 @@ def comprobar_formularios(formularios: list):
 # Poner en la lista la ruta a los formularios a analizar
 ruta_formularios = ['formulario_01.png','formulario_02.png', 'formulario_03.png', 'formulario_04.png', 'formulario_05.png']
 comprobar_formularios(ruta_formularios)
+
 

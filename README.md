@@ -76,6 +76,8 @@ ID,Nombre y Apellido,Edad,Mail,Legajo,Pregunta 1,Pregunta 2,Pregunta 3,Comentari
     ```
    Para cambiar los formularios a analizar, modifica la lista `ruta_formularios` al final del archivo.
 
+   Tener en cuenta que para ejecutar ambos algoritmos las imagenes deben estar en la misma carpeta que el script, tal y como se clona el repositorio.
+
 ---
 
 ## Autores
